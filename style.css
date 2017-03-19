@@ -1,0 +1,85 @@
+head
+{
+	color: black;
+	text-align: center;
+	font-family: "Cursive";
+}
+.titre
+{
+	background-color: #C0C0C0;
+	color:#8B0000;
+	letter-spacing:2px;
+	font-family: "Cursive";
+}
+.description
+{
+	letter-spacing:0;
+}
+
+#carrousel{
+
+    position:relative;
+	margin:100px;
+	padding:100px;
+
+}
+
+
+body
+{
+	background-color: white;
+	color: grey;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: "impact";
+
+
+}
+
+.centre
+{
+	color: black;
+	border-top: 2px solid #e5e5e5;
+	border-bottom:2px solid #e5e5e5;
+	max-width:100%;
+	display:inline-block;
+	margin:10px 15px;
+	width:28%;
+	vertical-align:top;
+}
+
+section h2
+{
+	font-weight:600;
+	font-variant:small-caps;
+	color:#888;
+	font-size: 1.5em;
+	letter-spacing: 12px;
+	margin:100px 0;
+}
+
+section img
+{
+	width:100%;
+	border:solid 10px #ebebeb;
+}
+
+
+section p
+{
+	text-transform:uppercase;
+	font-weight:400;
+	color:#000
+}
+
+footer
+{
+	text-align:center;
+	width:100%;
+	background-color:#f0f0f0;
+	border-top:5px solid #e5e5e5;
+	color:#000;
+	letter-spacing: 3px;
+	padding: 50px 0;
+}
+
